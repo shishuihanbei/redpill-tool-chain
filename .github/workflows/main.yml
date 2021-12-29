@@ -33,5 +33,5 @@ jobs:
 
       - uses: actions/upload-artifact@v2
         with:
-          name: dsm918
+          name: dsm3615xs
           path: ./images
